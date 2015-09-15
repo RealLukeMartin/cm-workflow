@@ -1,6 +1,8 @@
 drushrc.php
 settings.php
-files/.htaccess
+files/*
+!files/styles/*
+!files/config/*
 private/*
 
 # Ignore css map files
