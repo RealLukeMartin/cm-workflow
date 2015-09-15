@@ -1,0 +1,7 @@
+drushrc.php
+settings.php
+files/.htaccess
+private/*
+
+# Ignore css map files
+*.map
