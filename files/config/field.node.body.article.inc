@@ -111,11 +111,11 @@ $data = array(
     ),
     'required' => FALSE,
     'description' => '',
+    'default_value' => NULL,
     'field_name' => 'body',
     'entity_type' => 'node',
     'bundle' => 'article',
     'deleted' => '0',
-    'default_value' => NULL,
   ),
 );
 
