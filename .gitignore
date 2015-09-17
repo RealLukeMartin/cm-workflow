@@ -1,7 +1,6 @@
 drushrc.php
 settings.php
 files/*
-!files/styles/*
 !files/config/*
 private/*
 
